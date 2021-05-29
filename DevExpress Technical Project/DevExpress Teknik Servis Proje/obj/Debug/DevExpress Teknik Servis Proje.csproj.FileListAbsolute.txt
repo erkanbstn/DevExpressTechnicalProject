@@ -1,0 +1,592 @@
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.exe.config
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.exe
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.pdb
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.exe.licenses
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.CopyComplete
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.exe
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.pdb
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmÜrünListesi.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniÜrün.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmKategori.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniKategori.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.Frmİstatistik.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmMarkalar.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.UI.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.UI.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmCariListesi.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmCariİller.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniCari.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FDepartman.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FYeniDepartman.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FPersonelListesi.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FKurlar.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FYoutube.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızaListesi.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FÜrünSatış.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FSatışlar.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıÜrünKayıt.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıDetay.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıDetayListesi.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FQRKod.resources
+C:\Users\profe\Desktop\Visual Projeler\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FFatura.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.exe.config
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.exe
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.pdb
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.UI.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.UI.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Form1.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızaListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıDetay.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıDetayListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıÜrünKayıt.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FDepartman.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FFatura.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FKurlar.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FPersonelListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FQRKod.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmCariListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmCariİller.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmKategori.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmMarkalar.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniCari.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniKategori.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniÜrün.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmÜrünListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.Frmİstatistik.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FSatışlar.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FYeniDepartman.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FYoutube.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FÜrünSatış.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.exe.licenses
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.CopyComplete
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.exe
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.pdb
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FKalem.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Teknik Servis Proje\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FFKalem.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.exe.config
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.exe
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress Teknik Servis Proje.pdb
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.UI.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.UI.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Form1.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızaListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıDetay.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıDetayListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FArızalıÜrünKayıt.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FDepartman.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FFatura.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FFKalem.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FKalem.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FKurlar.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FPersonelListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FQRKod.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmCariListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmCariİller.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmKategori.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmMarkalar.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniCari.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniKategori.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniÜrün.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmÜrünListesi.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.Frmİstatistik.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FSatışlar.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FYeniDepartman.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FYoutube.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FÜrünSatış.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.exe.licenses
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.csproj.CopyComplete
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.exe
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress Teknik Servis Proje.pdb
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmHakkımızda.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Map.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraMap.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Map.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraMap.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Map.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Map.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Map.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Map.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmHarita.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmRapor.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Raporlar.XtraReport1.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmAS.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmRehber.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmMesaj.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmYeniMesaj.resources
+C:\Users\profe\Desktop\Visual Projects\DevExpress Technical Project\DevExpress Teknik Servis Proje\obj\Debug\DevExpress_Teknik_Servis_Proje.Formlar.FrmLogin.resources
